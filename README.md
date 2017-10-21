@@ -1,9 +1,7 @@
 # Geothermal
-Geothermal studies 
 
+Este repositório apresenta alguns aobrdagens sobre estudos geotérmicos, tais como: 
 
-Corrections of bottom-hole temperature
+Correções de medidas de temperatura de fundo de poço (BHT).
 
-Determining of gradient geothermal
-
-Determining of heat flow
+Determinação de parâmentros geotérmicos, tais como gradiente e fluxo térmico, usando simulações computacionais com modelagem e inversão.

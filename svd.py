@@ -2,8 +2,6 @@
 
 import numpy as np
 
-# example taken from Video Tutorials - All in One
-# https://www.youtube.com/watch?v=P5mlg91as1c
 a = np.array([[1, 1, 1, 0, 0],
               [3, 3, 3, 0, 0],
               [4, 4, 4, 0, 0],

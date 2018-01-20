@@ -9,4 +9,5 @@ Este repositório apresenta alguns aobrdagens sobre estudos geotérmicos, tais c
 >Mudanças Climáticas
 
 >Simulações computacionais com modelagem e inversão.
-  - Inversão Linear
+  + Inversão Linear utilizando SVD
+  + Regularização

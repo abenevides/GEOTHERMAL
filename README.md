@@ -11,3 +11,4 @@ Este repositório apresenta alguns abordagens sobre estudos geotérmicos, tais c
 >**Simulações computacionais com modelagem e inversão.**
   + Inversão Linear utilizando SVD
   + Regularização
+Modelagem 2D

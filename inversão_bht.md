@@ -1,4 +1,4 @@
-# Inversão de BHT (Temperatura de Fundo de Poço) para determinação do gradiente geotérmico em formações em subsuperfície
+# Inversão de BHT (Temperatura de Fundo de Poço) para determinação do gradiente geotérmico em formações em subsuperfície.
 
 Podemos determinar inversamente o gradiente geotermico de cada formação em subsuperfície utilizando com informação a diferença de temperatura entre um ponto na superfície de um poço e outro ponto no fundo do poço e as espessuras de cada formação atravessada por esse poço.
 

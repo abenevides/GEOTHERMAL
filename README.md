@@ -6,8 +6,8 @@ Este repositório apresenta alguns abordagens sobre estudos geotérmicos, tais c
 
 >**Determinação de parâmentros geotérmicos: gradiente e fluxo térmico.**
 
-  > A partir de inversão de bht (método de Chapman, 1988), utilizando SVD.
-  > Medidas de condutividade térmica
+  >+ A partir de inversão de bht (método de Chapman, 1988), utilizando SVD.
+  >+ Medidas de condutividade térmica
 
 >**Mudanças Climáticas**
 

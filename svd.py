@@ -34,3 +34,7 @@ U, s, VT = np.linalg.svd(a, full_matrices=False)
 print "U:\n {}".format(U)
 print "s:\n {}".format(s)
 print "VT:\n {}".format(VT)
+
+
+def np_svd(X):
+    return np.linalg.svd(X, full_matrices=True, compute_uv=True)

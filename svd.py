@@ -16,25 +16,27 @@ np.set_printoptions(precision=3)
 
 # Full SVD is taught more often. Here is a good explination of the different
 # http://www.cs.cornell.edu/Courses/cs322/2008sp/stuff/TrefethenBau_Lec4_SVD.pdf
-print "--- FULL ---"
+print("--- FULL ---")
 U, s, VT = np.linalg.svd(a, full_matrices=True)
 
-print "U:\n {}".format(U)
-print "s:\n {}".format(s)
-print "VT:\n {}".format(VT)
+print("--- FULL ---")
+print("U:\n {}".format(U))
+print("s:\n {}".format(s))
+print("VT:\n {}".format(VT))
 
 # the reduced or trucated SVD operation can save time by ignoring all the
 # extremly small or exactly zero values. A good blog post explaing the benefits
 # can be found here:
 # http://blog.explainmydata.com/2016/01/how-much-faster-is-truncated-svd.html
-print "--- REDUCED ---"
+print("--- REDUCED ---")
 
 U, s, VT = np.linalg.svd(a, full_matrices=False)
 
-print "U:\n {}".format(U)
-print "s:\n {}".format(s)
-print "VT:\n {}".format(VT)
+print("--- FULL ---")
+print("U:\n {}".format(U))
+print("s:\n {}".format(s))
+print("VT:\n {}".format(VT))
 
 
-def np_svd(X):
-    return np.linalg.svd(X, full_matrices=True, compute_uv=True)
+    def np_svd(X):
+        return np.linalg.svd(X, full_matrices=True, compute_uv=True)

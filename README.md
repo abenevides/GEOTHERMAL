@@ -16,8 +16,8 @@ Este repositório apresenta algumas abordagens sobre estudos geotérmicos, tais 
 Modelagem 2D
 + Inversão Linear utilizando SVD ([`svd.ipnb`](https://github.com/arturbenevides/GEOTHERMAL/blob/master/svd.ipynb))
 + Regularização
-+ Erro RMS ([`erroRMS.f`](https://github.com/arturbenevides/GEOTHERMAL/blob/master/erroRMS.f)
-> [Resumo expandido](https://github.com/arturbenevides/GEOTHERMAL/blob/master/text/Resuma_Expandido_simbgf_2016.pdf) e [Poster](https://github.com/arturbenevides/GEOTHERMAL/blob/master/text/poster_Artur_vers%C3%A3o2.pdf))
++ Erro RMS ([`erroRMS.f`](https://github.com/arturbenevides/GEOTHERMAL/blob/master/erroRMS.f))
+> [Resumo expandido](https://github.com/arturbenevides/GEOTHERMAL/blob/master/text/Resuma_Expandido_simbgf_2016.pdf) e [Poster](https://github.com/arturbenevides/GEOTHERMAL/blob/master/text/poster_Artur_vers%C3%A3o2.pdf)
   
 ### Disturbio de temperatura Método de Bullard
   >+ Medidas de condutividade térmica

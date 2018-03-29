@@ -12,7 +12,7 @@ Este repositório apresenta alguns abordagens sobre estudos geotérmicos, tais c
 >**Mudanças Climáticas**
 
 >**Simulações computacionais com modelagem e inversão.**
-  + Inversão Linear utilizando SVD (`svd.ipnb`)
+  + Inversão Linear utilizando SVD ([`svd.ipnb`](https://github.com/arturbenevides/GEOTHERMAL/blob/master/svd.ipynb))
   + Regularização
   
 Modelagem 2D

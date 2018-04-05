@@ -3,6 +3,10 @@
 Este repositório apresenta algumas abordagens sobre estudos geotérmicos, tais como: 
 
 >**Correções de medidas de temperatura de fundo de poço (BHT).**
+- [ ] Dados de Pineview
+- [ ] Sintéticos Modelo Padrão
+- [ ] Sintético MOdelo Elaborado
+- [ ] Dados Reais
 
 >**Determinação de parâmentros geotérmicos: gradiente e fluxo térmico.**
 

@@ -11,8 +11,10 @@ Este repositório apresenta algumas abordagens sobre estudos geotérmicos, tais 
 >**Determinação de parâmentros geotérmicos: gradiente e fluxo térmico.**
 - [ ] Bacias da Costa Sul Baiana
 - [ ] Dados da literatura
+- [ ] Correlação com perfis geofísicos
 
 >**Mudanças Climáticas**
+- [ ] Variação da temperatura da superfície marinha para os ultimos 100 anos;
 
 >**Simulações computacionais com modelagem e inversão.**
 

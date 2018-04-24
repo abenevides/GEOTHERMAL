@@ -4,35 +4,35 @@
         print*, 'INPUT'
         print*, ' '
 
-        m_ver(1)=22.2
-        m_ver(2)=20.1
-        m_ver(3)=22.9
-        m_ver(4)=30.5
-        m_ver(5)=27.5
-        m_ver(6)=14.8
-        m_ver(7)=0.0
-        m_ver(8)=39.1
-        m_ver(9)=22.9
+        m_ver(1) = 22.200
+        m_ver(2) = 20.100
+        m_ver(3) = 22.900
+        m_ver(4) = 30.500
+        m_ver(5) = 27.500
+        m_ver(6) = 14.800
+        m_ver(7) =  0.000
+        m_ver(8) = 39.100
+        m_ver(9) = 22.900
 
-        
-        m_est(1)=19.5124016
-        m_est(2)=33.0314522
-        m_est(3)=22.2370033
-        m_est(4)=34.6714478
-        m_est(5)=28.7087879
-        m_est(6)=16.3057022
-        m_est(7)=-0.983072817
-        m_est(8)=26.4353905
-        m_ver(9)=12.7577324
-        
+
+        m_est(1) =  21.905
+        m_est(2) =  19.360
+        m_est(3) =  23.381
+        m_est(4) =  27.242
+        m_est(5) =  27.432
+        m_est(6) =  14.744
+        m_est(7) =   3.595
+        m_est(8) =  40.425
+        m_est(9) =  20.590
+
         n=9
         
        print*,'m_ver'
-       do I=1,8
+       do I=1,n
               print*, m_ver(I)
        enddo
        print*,'m_est'
-       do i=1,8
+       do I=1,n
               print*, m_est(I)
 
        end do

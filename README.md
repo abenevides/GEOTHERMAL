@@ -1,4 +1,5 @@
 # Geothermal 
+@benevides
 
 Este repositório apresenta algumas abordagens sobre estudos geotérmicos, tais como: 
 

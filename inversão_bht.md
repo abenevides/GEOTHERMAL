@@ -7,3 +7,6 @@ Essa metodologia foi utilizada inicialmente por Chapman em 1981 para determinaç
 Em 2016, durante a graduação em geofísica foi reproduzida a metodologia de Chapman (1981), entretanto utilizando como técnica de inversão a Decomposição em Valores Singulares (SVD) e para obtenção de uma solução mais realística os métodos dos mínimos quadrados (mmq) e mínimos quardrados amortecidos (mqa).
 
 
+
+#
+#

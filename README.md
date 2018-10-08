@@ -1,9 +1,10 @@
 # Geothermal 
 @benevides
 
+
 Este repositório apresenta algumas abordagens sobre estudos geotérmicos, tais como: 
 
->**Correções de medidas de temperatura de fundo de poço (BHT).**
+>**Iversão de medidas de temperatura de fundo de poço (BHT).**
 - [x] Dados de Pineview
 - [ ] Sintéticos Modelo Padrão
 - [ ] Sintético Modelo Elaborado

@@ -5,10 +5,10 @@
 Este repositório apresenta algumas abordagens sobre estudos geotérmicos, tais como: 
 
 >**Iversão de medidas de temperatura de fundo de poço (BHT).**
-- [x] Dados de Pineview
-- [ ] Sintéticos Modelo Padrão
-- [ ] Sintético Modelo Elaborado
-- [ ] Dados Reais
+- [x] Aplicação a dados de Pineview
+- [ ] Aplicação em sintéticos simples
+- [ ] Aplicação em sintético complexo
+- [ ] Aplicação em Dados Reais
 
 >**Determinação de parâmentros geotérmicos: gradiente e fluxo térmico.**
 - [ ] Bacias da Costa Sul Baiana

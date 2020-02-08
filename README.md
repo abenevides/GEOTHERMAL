@@ -15,6 +15,12 @@ Este repositório apresenta algumas abordagens sobre estudos geotérmicos, tais 
 - [ ] Dados da literatura
 - [ ] Correlação com perfis geofísicos
 
+Paper submetido a revista brasileira de Geofísica: 
+
+BENEVIDES, A; BASSREI, A. Inversion of Bottom Hole Temperatures for Gradient Determination by the Damped Least Squares Method for Noise Attenuation. Revista Brasileira de Geofísica (Impresso), v. 37, p. 381-395, 2019.
+
+
+
 >**Mudanças Climáticas**
 - [ ] Variação da temperatura da superfície marinha para os ultimos 100 anos;
 

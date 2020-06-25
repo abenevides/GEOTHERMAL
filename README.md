@@ -1,6 +1,8 @@
 # Geothermal 
 @benevides
+
 *Paper submetido a revista brasileira de Geofísica:*
+
 **BENEVIDES, A; BASSREI, A. Inversion of Bottom Hole Temperatures for Gradient Determination by the Damped Least Squares Method for Noise Attenuation. Revista Brasileira de Geofísica (Impresso), v. 37, p. 381-395, 2019.** [PDF](https://github.com/arturbenevides/GEOTHERMAL/blob/master/2016-5354-2-PB.pdf)
 
 
